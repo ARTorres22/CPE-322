@@ -22,7 +22,7 @@
 
 ![example image](image.jpg)
 
-| Syntax | Description |
+| Column 1 | Column 2 |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Item 11 | Item 21 |
+| Item 12 | Item 22 |
