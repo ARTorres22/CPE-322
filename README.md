@@ -16,11 +16,11 @@
 - Unordered item two
 - Unordered item three
 
-'code'
+`code`
 
 ---
 
-[github test link](https://github.com/ARTorres22/CPE-322.git)
+[GitHub test link](https://github.com/ARTorres22/CPE-322.git)
 
 ![example image](image.jpg)
 
