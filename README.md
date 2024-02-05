@@ -20,7 +20,8 @@
 
 [GitHub Profile Link](https://github.com/ARTorres22)
 
-![example image](image.jpg)
+![example image](image1.jpg)
+
 *Here is a picture of a turtle I've taken*
 
 | Column 1 | Column 2 |
