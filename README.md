@@ -2,9 +2,10 @@
 
 > quote text
 
-- Unordered item one
-- Unordered item two
-- Unordered item three
+**Foods I like**
+- Bagels
+- Pupusas
+- Chicken Saag Curry
 
 `code`
 
@@ -12,14 +13,13 @@
 
 [GitHub Profile Link](https://github.com/ARTorres22)
 
+*Here is a picture of a turtle I've taken*
 ![example image](image1.jpg)
 
-*Here is a picture of a turtle I've taken*
-
 **My top 100 cheeses**
-1. Cheddar
+1. Cream Cheese
 2. Gouda
-3. Brie
+3. Cheddar
 4. Camembert
 5. Roquefort
 6. Parmesan
