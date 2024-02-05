@@ -6,7 +6,7 @@
 
 ---
 
-**Foods I like**
+**Some foods I like**
 - Bagels
 - Pupusas
 - Chicken Saag Curry
