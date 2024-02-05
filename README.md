@@ -6,15 +6,15 @@
 
 ---
 
-**Some foods I like**
-- Bagels
-- Pupusas
-- Chicken Saag Curry
-
 [GitHub Profile Link](https://github.com/ARTorres22)
 
 *Here is a picture of a turtle I've taken*
 ![example image](image1.jpg)
+
+**Some foods I like**
+- Bagels
+- Pupusas
+- Chicken Saag Curry
 
 **My top 100 cheeses**
 1. Cream Cheese
