@@ -1,6 +1,6 @@
 # CPE-322
 
-**bold text**
+**Part of Group 19**
 
 > quote text
 
