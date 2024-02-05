@@ -4,8 +4,6 @@
 
 **bold text**
 
-*italicized text*
-
 > quote text
 
 1. First item
@@ -20,9 +18,10 @@
 
 ---
 
-[GitHub test link](https://github.com/ARTorres22/CPE-322.git)
+[GitHub Profile Link](https://github.com/ARTorres22)
 
 ![example image](image.jpg)
+*Here is a picture of a turtle I've taken*
 
 | Column 1 | Column 2 |
 | ----------- | ----------- |
