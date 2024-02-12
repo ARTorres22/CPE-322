@@ -2,14 +2,25 @@
 ## Course Description
 > This course introduces students to critical engineering design topics such as needs assessment, problem formulation, modeling, patents, abstraction and synthesis, economic analysis, product liability, ergonomics, engineering ethics, hazards analysis, design for X, material selection, and manufacturing processes. Students learn that engineering is a service profession, dedicated to satisfying humanity's needs through responsible, methodical, and creative problem solving.
 
-`print("Hello World")`
+**Lab Progress**
+- [ ] Lesson 1: Overview
+- [ ] Lesson 2: Raspberry Pi
+- [ ] Lesson 3: Python
+- [ ] Lesson 4: Django and Flask
+- [ ] Lesson 5: Paho and Crossbar.io
+- [ ] Lesson 6: Alternative Devices
+- [ ] Lesson 7: Cloud Platforms
+- [ ] Lesson 8: Data Analysis
+- [ ] Lesson 9: YANG and Qiskit
+- [ ] Lesson 10: Blockchain
 
 ---
-
 [GitHub Profile Link](https://github.com/ARTorres22)
 
 *Here is a picture of a turtle I've taken*
 ![example image](image1.jpg)
+
+`print("Hello World")`
 
 **Some foods I like**
 - Bagels
