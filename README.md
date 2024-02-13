@@ -14,8 +14,11 @@
 - [ ] Lesson 9: YANG and Qiskit
 - [ ] Lesson 10: Blockchain
 
----
+[Group Website](https://sites.google.com/stevens.edu/cpe322group19/home)
+
 [GitHub Profile Link](https://github.com/ARTorres22)
+
+---
 
 *Here is a picture of a turtle I've taken*
 ![example image](image1.jpg)
