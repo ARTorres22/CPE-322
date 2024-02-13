@@ -3,16 +3,16 @@
 > This course introduces students to critical engineering design topics such as needs assessment, problem formulation, modeling, patents, abstraction and synthesis, economic analysis, product liability, ergonomics, engineering ethics, hazards analysis, design for X, material selection, and manufacturing processes. Students learn that engineering is a service profession, dedicated to satisfying humanity's needs through responsible, methodical, and creative problem solving.
 
 **Lab Progress**
-- [ ] Lesson 1: Overview
-- [ ] Lesson 2: Raspberry Pi
-- [ ] Lesson 3: Python
-- [ ] Lesson 4: Django and Flask
-- [ ] Lesson 5: Paho and Crossbar.io
-- [ ] Lesson 6: Alternative Devices
-- [ ] Lesson 7: Cloud Platforms
-- [ ] Lesson 8: Data Analysis
-- [ ] Lesson 9: YANG and Qiskit
-- [ ] Lesson 10: Blockchain
+- [ ] Lab 1 — GHDL and GTKWave
+- [ ] Lab 2 — Command Line
+- [ ] Lab 3 — Python
+- [ ] Lab 4 — Django and Flask
+- [ ] Lab 5 — Paho-MQTT
+- [ ] Lab 6 — Node.js and Pystache
+- [ ] Lab 7 — ThingSpeak and Google Sheets
+- [ ] Lab 8 — Data Analysis
+- [ ] Lab 9 — YANG
+- [ ] Lab 10 — Blockchain
 
 [Group Website](https://sites.google.com/stevens.edu/cpe322group19/home)
 
