@@ -1,4 +1,4 @@
 # Lab 1 — GHDL and GTKWave
 
 **Half Adder**
-![half adder](HalfAdder.png)
+![half adder](labs/img/HalfAdder.png)
