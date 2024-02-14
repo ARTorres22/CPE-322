@@ -3,7 +3,7 @@
 ## Half Adder
 
 ![half adder](img/HalfAdder.png)
-![half adder gtkwave](img/HalfAdder.png)
+![half adder gtkwave](img/HalfAdderGTKwave.png)
 
 ## 4-to-1 Multiplexer
 
