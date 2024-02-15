@@ -3,5 +3,5 @@
 `$ hostname`
 
 *Description: Displays the hostname of the current computer or system*
-![hostname](hostname.png)
+![hostname](img/hostname.png)
 ---
