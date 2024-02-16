@@ -131,4 +131,8 @@
 
 *Description: Displays network connections, routing tables, interface statistics, masquerade connections, and multicast memberships*
 
-![netstat](img/netstat.png)
+![netstat1](img/netstat1.png)
+![netstat2](img/netstat2.png)
+![netstat3](img/netstat3.png)
+![netstat4](img/netstat4.png)
+![netstat5](img/netstat5.png)
