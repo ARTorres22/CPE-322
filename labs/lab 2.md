@@ -111,7 +111,7 @@
 ---
 `$ uname -a`
 
-*Description: Prints out system information*
+*Description: Prints out terminal information*
 
 ![unameA](img/unameA.png)
 ---
