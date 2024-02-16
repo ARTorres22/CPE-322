@@ -106,6 +106,7 @@
 `$ man uname`
 
 *Description: Displays the manual page for the 'uname' command*
+
 *As I'm on Windows the `man` command does not work so I used the `--help` command instead*
 
 ![manUname](img/manUname.png)
