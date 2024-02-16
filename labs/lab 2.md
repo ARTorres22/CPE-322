@@ -115,11 +115,11 @@
 
 ![unameA](img/unameA.png)
 ---
-`$ ifconfig`
+`$ ipconfig`
 
 *Description: Displays information about all active network interfaces*
 
-![ifconfig](img/ifconfig.png)
+![ipconfig](img/ipconfig.png)
 ---
 `$ ping localhost`
 
