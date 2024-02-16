@@ -3,8 +3,8 @@
 > This course introduces students to critical engineering design topics such as needs assessment, problem formulation, modeling, patents, abstraction and synthesis, economic analysis, product liability, ergonomics, engineering ethics, hazards analysis, design for X, material selection, and manufacturing processes. Students learn that engineering is a service profession, dedicated to satisfying humanity's needs through responsible, methodical, and creative problem solving.
 
 **Lab Progress**
-- [x] Lab 1 — GHDL and GTKWave
-- [ ] Lab 2 — Command Line
+- [x] [Lab 1](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%201.md) — GHDL and GTKWave
+- [x] [Lab 2](https://github.com/ARTorres22/CPE-322/blob/main/labs/lab%202.md) — Command Line
 - [ ] Lab 3 — Python
 - [ ] Lab 4 — Django and Flask
 - [ ] Lab 5 — Paho-MQTT
