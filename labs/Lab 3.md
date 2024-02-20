@@ -74,6 +74,6 @@ couldn't get psutil working
 ---
 `$ python3 documentstats.py document.txt`
 
-*Description: Displays the top 10 words of the specified document*
+*Description: Displays the word count and the top 10 words of the specified document*
 
 ![documentstats](img/documentstats.png)
