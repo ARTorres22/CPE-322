@@ -1,4 +1,4 @@
-# Lab 2 — Python
+# Lab 3 — Python
 
 `$ cd ~/iot`
 
