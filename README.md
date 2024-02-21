@@ -6,7 +6,7 @@
 - [x] [Lab 1](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%201.md) — GHDL and GTKWave
 - [x] [Lab 2](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%202.md) — Command Line
 - [x] [Lab 3](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%203.md) — Python
-- [ ] Lab 4 — Django and Flask
+- [ ] [Lab 4](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%204.md) — Django and Flask
 - [ ] Lab 5 — Paho-MQTT
 - [ ] Lab 6 — Node.js and Pystache
 - [ ] Lab 7 — ThingSpeak and Google Sheets
