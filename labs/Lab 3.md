@@ -63,12 +63,14 @@
 `$ python3 cpu.py`
 
 *Description: Shows physical cores, logical cores, and their utilization*
+
 couldn't get psutil working on my original laptop, so I swapped to a different one
 ![cpu](img/cpu.png)
 ---
 `$ python3 battery.py`
 
 *Description: Displays the battery percentage, time left, and if it is plugged in*
+
 The battery on this is completely dead, so the info is correct
 ![battery](img/battery.png)
 ---
