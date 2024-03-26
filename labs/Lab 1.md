@@ -12,6 +12,6 @@
 
 <div style="text-align: right;">
 
-[Your link text](http://example.com)
+[Lab 2 >](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%202.md)
 
 </div>
