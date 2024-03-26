@@ -8,7 +8,7 @@
 - [x] [Lab 3](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%203.md) — Python
 - [ ] [Lab 4](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%204.md) — Django and Flask
 - [x] [Lab 5](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%205.md) — Paho-MQTT
-- [ ] Lab 6 — Node.js and Pystache
+- [x] [Lab 6](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%206.md) — Node.js and Pystache
 - [ ] Lab 7 — ThingSpeak and Google Sheets
 - [ ] Lab 8 — Data Analysis
 - [ ] Lab 9 — YANG
