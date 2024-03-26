@@ -1,6 +1,6 @@
 # Lab 6 — Node.js and Pystache
 
- `hello-world.js` 
+### `hello-world.js` 
 ![hello-world.js](img/hello-worldjs.png)
 ![hello-world.js](img/site_hello-worldjs.png)
 ---
