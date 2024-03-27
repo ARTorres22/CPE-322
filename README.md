@@ -3,12 +3,12 @@
 > This course introduces students to critical engineering design topics such as needs assessment, problem formulation, modeling, patents, abstraction and synthesis, economic analysis, product liability, ergonomics, engineering ethics, hazards analysis, design for X, material selection, and manufacturing processes. Students learn that engineering is a service profession, dedicated to satisfying humanity's needs through responsible, methodical, and creative problem solving.
 
 **Lab Progress**
-- [x] [Lab 1](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%201.md) — GHDL and GTKWave
-- [x] [Lab 2](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%202.md) — Command Line
-- [x] [Lab 3](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%203.md) — Python
-- [ ] [Lab 4](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%204.md) — Django and Flask
-- [x] [Lab 5](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%205.md) — Paho-MQTT
-- [x] [Lab 6](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%206.md) — Node.js and Pystache
+- [x] [Lab 1](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2001.md) — GHDL and GTKWave
+- [x] [Lab 2](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2002.md) — Command Line
+- [x] [Lab 3](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2003.md) — Python
+- [ ] [Lab 4](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2004.md) — Django and Flask
+- [x] [Lab 5](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2005.md) — Paho-MQTT
+- [x] [Lab 6](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2006.md) — Node.js and Pystache
 - [ ] Lab 7 — ThingSpeak and Google Sheets
 - [ ] Lab 8 — Data Analysis
 - [ ] Lab 9 — YANG
