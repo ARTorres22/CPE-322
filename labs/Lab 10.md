@@ -1,11 +1,7 @@
 # Lab 10 — Blockchain
-`hash_value.py` run 1
+`hash_value.py` run 1 and 2
 
-![hashvalue1](img/hashvalue1.png)
-
-`hash_value.py` run 2
-
-![hashvalue2](img/hashvalue2.png)
+![hashvalue](img/hashvalue.png)
 
 ---
 `snakecoin.py`
