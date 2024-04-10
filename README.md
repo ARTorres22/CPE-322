@@ -11,7 +11,7 @@
 - [x] [Lab 6](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2006.md) — Node.js and Pystache
 - [ ] Lab 7 — ThingSpeak and Google Sheets
 - [ ] Lab 8 — Data Analysis
-- [ ] Lab 9 — YANG
+- [x] [Lab 9](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2009.md) — YANG
 - [x] [Lab 10](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2010.md) — Blockchain
 
 [Group Website](https://sites.google.com/stevens.edu/cpe322group19/home)
