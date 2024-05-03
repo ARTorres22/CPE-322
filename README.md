@@ -22,6 +22,28 @@
 
 ---
 
+**Weekly Progress**
+
+| Dates | Lab Work |
+| ----------- | ----------- |
+| Jan 22-28 | Created GitHub Repository and README.md |
+| Jan 29-Feb 4 | --- |
+| Feb 5-11 | --- |
+| Feb 12-18 | Finished Lab 1/Lab 2 and added lab progress to README.md |
+| Feb 19-25 | Finished Lab 3 (had trouble with psutil) and started Lab 4 |
+| Feb 26-Mar 3 | --- |
+| Mar 4-10 | --- |
+| Mar 11-17 | --- |
+| Mar 18-24 | Fixed Lab 3 (got psutil working) |
+| Mar 25-31 | Finished Lab 5/Lab 6/Lab 10 and fixed the lab numbering |
+| Apr 1-7 | --- |
+| Apr 8-14 | Finished Lab 9/Lab 4  |
+| Apr 15-21 | --- |
+| Apr 22-28 | --- |
+| Apr 29-May 6 | Added Weekly Progress to README.md |
+
+---
+
 *Here is a picture of a turtle I've taken*
 ![example image](image1.jpg)
 
