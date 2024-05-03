@@ -2,7 +2,7 @@
 ## Course Description
 > This course introduces students to critical engineering design topics such as needs assessment, problem formulation, modeling, patents, abstraction and synthesis, economic analysis, product liability, ergonomics, engineering ethics, hazards analysis, design for X, material selection, and manufacturing processes. Students learn that engineering is a service profession, dedicated to satisfying humanity's needs through responsible, methodical, and creative problem solving.
 
-**Lab Progress**
+### **Lab Progress**
 - [x] [Lab 1](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2001.md) — GHDL and GTKWave
 - [x] [Lab 2](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2002.md) — Command Line
 - [x] [Lab 3](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2003.md) — Python
@@ -20,9 +20,9 @@
 
 [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
----
+ 
 
-**Weekly Progress**
+### **Weekly Progress**
 
 | Dates | Lab Work |
 | ----------- | ----------- |
