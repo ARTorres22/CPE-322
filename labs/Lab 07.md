@@ -1,4 +1,4 @@
-# Lab 4 — Django and Flask
+# Lab 7 — ThingSpeak and Google Sheets
 
 ### cpudata spreadsheet
 
