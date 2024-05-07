@@ -9,7 +9,7 @@
 - [x] [Lab 4](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2004.md) — Django and Flask
 - [x] [Lab 5](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2005.md) — Paho-MQTT
 - [x] [Lab 6](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2006.md) — Node.js and Pystache
-- [ ] Lab 7 — ThingSpeak and Google Sheets
+- [x] [Lab 7](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2007.md) — ThingSpeak and Google Sheets
 - [ ] Lab 8 — Data Analysis
 - [x] [Lab 9](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2009.md) — YANG
 - [x] [Lab 10](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2010.md) — Blockchain
@@ -40,7 +40,7 @@
 | Apr 8-14 | Finished Lab 9/Lab 4  |
 | Apr 15-21 | --- |
 | Apr 22-28 | --- |
-| Apr 29-May 6 | Added Weekly Progress to README.md |
+| Apr 29-May 6 | Added Weekly Progress to README.md and finished Lab 7 |
 
 ---
 
