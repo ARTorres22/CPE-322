@@ -10,7 +10,7 @@
 - [x] [Lab 5](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2005.md) — Paho-MQTT
 - [x] [Lab 6](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2006.md) — Node.js and Pystache
 - [x] [Lab 7](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2007.md) — ThingSpeak and Google Sheets
-- [x] [Lab 8](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2007.md) — Data Analysis
+- [x] [Lab 8](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2008.md) — Data Analysis
 - [x] [Lab 9](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2009.md) — YANG
 - [x] [Lab 10](https://github.com/ARTorres22/CPE-322/blob/main/labs/Lab%2010.md) — Blockchain
 
